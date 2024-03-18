@@ -4,39 +4,8 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=30%>
 <br>
 <p>____________DOTNET_____________</p>
-<ul>
-  <li>
-    <h2>Phase 1: Basics</h2> 
-    <ul>
-      <li>
-        <h3>Database / SQL Server</h3> 
-        <ul>
-          <li>
-            - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
-- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
-          </li>
-        </ul>
 
-      </li>
-      <li>
-        <h3>C#</h3> 
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
-- [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
-      </li>
-      <li>
-      <h3>Object-Oriented Programming (OOP)</h3> 
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75)
-- [Metigator from 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
-
-      </li>
-    </ul>
-  </li>
-</ul>
-
+## Phase 1: Basics
 
 ### Database / SQL Server
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
