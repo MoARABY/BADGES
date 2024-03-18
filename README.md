@@ -1,4 +1,4 @@
-# Backend .NET Developer Roadmap
+![image](https://github.com/MoARABY/BADGES/assets/111441873/bacd4692-470d-4c4e-ac58-b9f386bba991)# Backend .NET Developer Roadmap
 
 Welcome to the Backend .NET Developer Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the .NET stack. Follow the phases and choose the courses that suit your learning style.
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=30%>
@@ -6,24 +6,23 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 <p>____________DOTNET_____________</p>
 <ul>
   <li>
-    ## Phase 1: Basics 
+    <h2>Phase 1: Basics</h2> 
     <ul>
       <li>
-        ### Database / SQL Server
+        <h3>Database / SQL Server</h3> 
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
       </li>
       <li>
-        ### C#
+        <h3>C#</h3> 
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
-
       </li>
       <li>
-      ### Object-Oriented Programming (OOP)
+      <h3>Object-Oriented Programming (OOP)</h3> 
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75)
 - [Metigator from 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
