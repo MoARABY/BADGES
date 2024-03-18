@@ -1,4 +1,4 @@
-![image](https://github.com/MoARABY/BADGES/assets/111441873/bacd4692-470d-4c4e-ac58-b9f386bba991)# Backend .NET Developer Roadmap
+# Backend .NET Developer Roadmap
 
 Welcome to the Backend .NET Developer Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the .NET stack. Follow the phases and choose the courses that suit your learning style.
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width=30%>
@@ -10,9 +10,14 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
     <ul>
       <li>
         <h3>Database / SQL Server</h3> 
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
+        <ul>
+          <li>
+            - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+          </li>
+        </ul>
+
       </li>
       <li>
         <h3>C#</h3> 
